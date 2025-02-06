@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web development, python<br><br>📫 How to reach me alvinvargheseavm@gmail.com<br>
+🌱 I'm a developer at UST global<br><br>📫 How to reach me alvinvargheseavm@gmail.com<br>
 
 
 ## 🌐 Socials:
